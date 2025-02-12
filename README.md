@@ -6,27 +6,34 @@ Funcionalidades:
 
 Personagem Jogável:
 - Controlado pelo jogador usando as setas do teclado.
+  
 Obstáculos:
  - Aparecem aleatoriamente na tela e reduzem as vidas do jogador ao colidir.
+   
 Power-Ups:
  - Coletáveis que aumentam a pontuação do jogador.
+   
 Vidas: - O jogador começa com 3 vidas e perde uma vida a cada colisão com um obstáculo.
+
 Pontuação:
  - O objetivo é coletar 20 pontos de poder. O jogo exibe uma mensagem de vitória ao atingir 20 pontos.
+   
 Efeitos Sonoros:
  - Sons para colisões, coleta de objetos e eventos de "Game Over" ou vitória.
+   
 Música de Fundo:
  - Música adequada ao ambiente do jogo.
+   
 
 Requisitos:
 
-Navegador web moderno com suporte a JavaScript.
-Conexão à internet para carregar a biblioteca Phaser.js.
+ - Navegador web moderno com suporte a JavaScript.
+ - Conexão à internet para carregar a biblioteca Phaser.js.
 
 Como Executar o Jogo:
 
-Clone o repositório ou faça o download dos arquivos do projeto.
-Abra o arquivo `index.html` em um navegador web.
+ - Clone o repositório ou faça o download dos arquivos do projeto.
+ - Abra o arquivo `index.html` em um navegador web.
 
 Controles do Jogo:
 - **Seta Esquerda**: Move o personagem para a esquerda.

@@ -3,6 +3,7 @@ Descrição:
 Este é um jogo simples desenvolvido em JavaScript utilizando a biblioteca Phaser.js. O objetivo do jogo é controlar um personagem que deve desviar de obstáculos e coletar objetos de poder para ganhar pontos. O jogo termina quando o jogador perde todas as vidas ou atinge a pontuação máxima.
 
 Funcionalidades:
+
 Personagem Jogável: Controlado pelo jogador usando as setas do teclado.
 Obstáculos: Aparecem aleatoriamente na tela e reduzem as vidas do jogador ao colidir.
 Power-Ups: Coletáveis que aumentam a pontuação do jogador.
@@ -12,10 +13,12 @@ Efeitos Sonoros: Sons para colisões, coleta de objetos e eventos de "Game Over"
 Música de Fundo: Música adequada ao ambiente do jogo.
 
 Requisitos:
+
 Navegador web moderno com suporte a JavaScript.
 Conexão à internet para carregar a biblioteca Phaser.js.
 
 Como Executar o Jogo:
+
 Clone o repositório ou faça o download dos arquivos do projeto.
 Abra o arquivo `index.html` em um navegador web.
 

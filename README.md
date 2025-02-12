@@ -27,6 +27,10 @@ Requisitos:
 Como Executar o Jogo:
 
  - Clone o repositório ou faça o download dos arquivos do projeto.
+ - Certifique-se de que a estrutura de pastas está conforme abaixo:
+
+├── index.html ├── game.js └── assets ├── player.png ├── obstacle.png ├── powerUp.png ├── bgMusic.mp3 ├── collect.wav ├── hit.wav ├── gameOver.wav └── victory.wav
+   
  - Abra o arquivo `index.html` em um navegador web.
 
 Controles do Jogo:

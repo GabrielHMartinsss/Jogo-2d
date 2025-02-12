@@ -4,25 +4,19 @@ Este é um jogo simples desenvolvido em JavaScript utilizando a biblioteca Phase
 
 Funcionalidades:
 
-Personagem Jogável:
-- Controlado pelo jogador usando as setas do teclado.
+Personagem Jogável: Controlado pelo jogador usando as setas do teclado.
   
-Obstáculos:
- - Aparecem aleatoriamente na tela e reduzem as vidas do jogador ao colidir.
+Obstáculos: Aparecem aleatoriamente na tela e reduzem as vidas do jogador ao colidir.
    
-Power-Ups:
- - Coletáveis que aumentam a pontuação do jogador.
+Power-Ups: Coletáveis que aumentam a pontuação do jogador.
    
-Vidas: - O jogador começa com 3 vidas e perde uma vida a cada colisão com um obstáculo.
+Vidas: O jogador começa com 3 vidas e perde uma vida a cada colisão com um obstáculo.
 
-Pontuação:
- - O objetivo é coletar 20 pontos de poder. O jogo exibe uma mensagem de vitória ao atingir 20 pontos.
+Pontuação: O objetivo é coletar 20 pontos de poder. O jogo exibe uma mensagem de vitória ao atingir 20 pontos.
    
-Efeitos Sonoros:
- - Sons para colisões, coleta de objetos e eventos de "Game Over" ou vitória.
+Efeitos Sonoros: Sons para colisões, coleta de objetos e eventos de "Game Over" ou vitória.
    
-Música de Fundo:
- - Música adequada ao ambiente do jogo.
+Música de Fundo: Música adequada ao ambiente do jogo.
    
 
 Requisitos:

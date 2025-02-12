@@ -1,4 +1,5 @@
-Descrição
+Descrição:
+
 Este é um jogo simples desenvolvido em JavaScript utilizando a biblioteca Phaser.js. O objetivo do jogo é controlar um personagem que deve desviar de obstáculos e coletar objetos de poder para ganhar pontos. O jogo termina quando o jogador perde todas as vidas ou atinge a pontuação máxima.
 
 Funcionalidades:
@@ -18,16 +19,16 @@ Como Executar o Jogo:
 Clone o repositório ou faça o download dos arquivos do projeto.
 Abra o arquivo `index.html` em um navegador web.
 
-## Controles do Jogo
+Controles do Jogo:
 - **Seta Esquerda**: Move o personagem para a esquerda.
 - **Seta Direita**: Move o personagem para a direita.
 - **Seta Cima**: Move o personagem para cima.
 - **Seta Baixo**: Move o personagem para baixo.
 
-## Estrutura do Projeto
+Estrutura do Projeto:
 - **index.html**: Arquivo HTML principal que carrega a biblioteca Phaser.js e o script do jogo.
 - **game.js**: Script principal do jogo contendo a lógica de criação, atualização e eventos do jogo.
 - **assets**: Pasta contendo os arquivos de imagem e áudio utilizados no jogo.
 
-## Créditos
+Créditos:
 Desenvolvido por GabrielHMartinsss.
